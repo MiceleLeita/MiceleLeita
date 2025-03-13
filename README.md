@@ -25,7 +25,7 @@ Explore some of my engineering and prototyping work below. Full writeups, images
 - ⚡ [3D Printed Ion Engine](https://github.com/MiceleLeita/Projects/tree/main/ion_engine) *(In Progress)*  
   Experimental electric propulsion concept built using additive manufacturing and high-voltage ion acceleration grids.
 
-- 🧨 [Project Vulcan](#) *(Writeup Coming Soon)*  
+- 🧨 [Project Vulcan](https://github.com/MiceleLeita/Projects/tree/main/project_vulcan) *(Writeup Coming Soon)*  
   Florida Tech’s **Project Vulcan** senior design team — developing a 3D-printed metal aerospike engine with a fluid-injected thrust vector control (FITVC) system. Managed through Jira and integrated with Agile workflows in partnership with Vaya Space.
 
 ---
