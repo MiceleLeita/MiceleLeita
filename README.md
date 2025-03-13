@@ -19,7 +19,7 @@ Explore some of my engineering and prototyping work below. Full writeups, images
 - 🧻 [Tape Dispenser](https://github.com/MiceleLeita/Projects/tree/main/tape_dispenser_project) *(In Progress)*  
   My final project for Florida Tech’s machine shop certification — currently in progress. Designed to be fully functional and robust, with all components machined by hand.
 
-- 🔥 [Compact Turbojet Engine](https://github.com/MiceleLeita/Projects/tree/main/turbojet_engine) *(In Progress)*  
+- 🔥 [Compact Turbojet Engine](https://github.com/MiceleLeita/Projects/tree/main/turbojet_engine_project) *(In Progress)*  
   A student-scale turbojet engine currently being designed and constructed through the Florida Tech Rocketry Club. Focus areas include combustion chamber design, turbine optimization, and CAD-driven fabrication planning.
 
 - ⚡ [3D Printed Ion Engine](https://github.com/MiceleLeita/Projects/tree/main/ion_engine_project) *(In Progress)*  
