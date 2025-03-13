@@ -16,7 +16,7 @@ Explore some of my engineering and prototyping work below. Full writeups, images
 - 📐 [GD&T Block](https://github.com/MiceleLeita/Projects/tree/main/block_project)  
   Fabricated from AL6061 using a Bridgeport mill and tapping tools. Designed and machined to spec using technical drawings with a strong emphasis on GD&T interpretation, feature precision, and tolerance control.
 
-- 🧻 [Tape Dispenser](https://github.com/MiceleLeita/Projects/tree/main/tape_dispenser) *(In Progress)*  
+- 🧻 [Tape Dispenser](https://github.com/MiceleLeita/Projects/tree/main/tape_dispenser_project) *(In Progress)*  
   My final project for Florida Tech’s machine shop certification — currently in progress. Designed to be fully functional and robust, with all components machined by hand.
 
 - 🔥 [Compact Turbojet Engine](https://github.com/MiceleLeita/Projects/tree/main/turbojet_engine) *(In Progress)*  
