@@ -22,7 +22,7 @@ Explore some of my engineering and prototyping work below. Full writeups, images
 - 🔥 [Compact Turbojet Engine](https://github.com/MiceleLeita/Projects/tree/main/turbojet_engine) *(In Progress)*  
   A student-scale turbojet engine currently being designed and constructed through the Florida Tech Rocketry Club. Focus areas include combustion chamber design, turbine optimization, and CAD-driven fabrication planning.
 
-- ⚡ [3D Printed Ion Engine](https://github.com/MiceleLeita/Projects/tree/main/ion_engine) *(In Progress)*  
+- ⚡ [3D Printed Ion Engine](https://github.com/MiceleLeita/Projects/tree/main/ion_engine_project) *(In Progress)*  
   Experimental electric propulsion concept built using additive manufacturing and high-voltage ion acceleration grids.
 
 - 🧨 [Project Vulcan](https://github.com/MiceleLeita/Projects/tree/main/project_vulcan) *(Writeup Coming Soon)*  
